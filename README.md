@@ -19,6 +19,8 @@ let message = #"Probando un salto de línea ... \#n ... Hoy es 1976\04\1!"#
 
 ## Links
 
+- [Swift código con ejemplos](https://github.com/jorgemhtdev/Swift-Playgrounds)
+
 - [Develop](https://developer.apple.com/develop/)
 
 - [Apple Developer Documentation](https://developer.apple.com/documentation)
